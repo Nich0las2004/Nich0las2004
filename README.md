@@ -45,8 +45,9 @@
   <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" style="width: 50px; margin: 10px; transition: transform 0.3s ease-in-out;"/></a>
 </span>
 
-## GitHub Stats
-![Nich0las2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nich0las2004&show_icons=true&theme=dark)
+## GitHub Streak Stats
+[![Nich0las2004's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nich0las2004&theme=dark)](https://github.com/Nich0las2004)
+
 
 ## Let's Connect 🌐
 
