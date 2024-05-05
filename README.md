@@ -54,7 +54,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nikoloz-oniani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikoloz-oniani/" height="30" width="40" /></a>
     &nbsp;
-  <a href="nikaoniani2018@gmail.com">
+  <a href="mailto:nikaoniani2018@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="nikaoniani2018@gmail.com" height="40" width="40" />
-  </a>
+</a>
 </p>
